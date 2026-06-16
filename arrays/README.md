@@ -5,7 +5,7 @@ Arrays are contiguous memory locations that store elements of the same type. Key
 ## 🎯 Question Checklist
 
 ### Basics & Warm-up
-- [ ] Largest Element in Array
+- [x] Largest Element in Array
 - [ ] Second Largest Element
 - [ ] Single Element in Sorted Array / Find element appearing once
 
