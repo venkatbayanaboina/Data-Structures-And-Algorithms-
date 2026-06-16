@@ -2,7 +2,15 @@
 
 Welcome to my repository for tracking my learning journey, implementations, and problem-solving in Data Structures and Algorithms! 🚀
 
-This repository serves as a personal log of conceptual notes, code implementations, and optimal solutions to classic DSA problems. Inside each folder, you'll find a **Question Checklist** (`README.md`) to tick off questions as you solve them.
+This repository serves as a personal log of conceptual notes, code implementations, and optimal solutions to classic DSA problems. 
+
+Inside this repository, we don't just store code; we focus on **understanding the thinking process**. For each question:
+- We decode the problem constraints and target complexity.
+- We outline the journey from Brute Force to the Optimal approach.
+- We identify the key triggers and takeaways.
+- We perform delta analysis: *How does this compare to previously solved questions? What changed?*
+
+You can use the standard [QUESTION_TEMPLATE.md](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/QUESTION_TEMPLATE.md) at the root to document your solutions inside each topic folder. Each topic directory also contains a **Question Checklist** (`README.md`) to track your progress.
 
 ---
 
