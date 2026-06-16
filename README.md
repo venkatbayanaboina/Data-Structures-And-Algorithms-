@@ -10,7 +10,7 @@ Inside this repository, we don't just store code; we focus on **understanding th
 - We identify the key triggers and takeaways.
 - We perform delta analysis: *How does this compare to previously solved questions? What changed?*
 
-You can use the standard [QUESTION_TEMPLATE.md](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/QUESTION_TEMPLATE.md) at the root to document your solutions inside each topic folder. Each topic directory also contains a **Question Checklist** (`README.md`) to track your progress.
+You can use the standard [QUESTION_TEMPLATE.md](./QUESTION_TEMPLATE.md) at the root to document your solutions inside each topic folder. Each topic directory also contains a **Question Checklist** (`README.md`) to track your progress.
 
 ---
 
@@ -59,16 +59,16 @@ Instead of jumping straight to coding, proceed with these steps:
 
 Click on any topic to view its curated question checklist and start learning:
 
-- 📂 [arrays](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/arrays) - Arrays, Two Pointers, Sliding Window, Kadane's
-- 📂 [strings](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/strings) - String manipulation, anagrams, substring searches
-- 📂 [searching_sorting](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/searching_sorting) - Binary Search, Merge Sort, Quick Sort
-- 📂 [recursion](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/recursion) - Recursive logic, induction, stack recursion
-- 📂 [backtracking](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/backtracking) - Exhaustive search, permutations, N-Queens, Sudoku
-- 📂 [linked_lists](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/linked_lists) - Singly/doubly linked lists, cycle detection, reversals
-- 📂 [stacks_queues](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/stacks_queues) - LIFO/FIFO operations, Monotonic Stack/Queue
-- 📂 [trees](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/trees) - Binary Trees, BST, traversals, LCA
-- 📂 [graphs](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/graphs) - DFS, BFS, shortest paths, topological sort
-- 📂 [heaps](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/heaps) - Priority Queues, K-way merges, top-K elements
-- 📂 [greedy](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/greedy) - Locally optimal choices, scheduling, knapsack
-- 📂 [dp](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/dp) - Memoization, tabulation, sequence/grid/knapsack DP
-- 📂 [bit_manipulation](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/bit_manipulation) - Bitwise operators, masking, subset generation
+- 📂 [arrays](./arrays) - Arrays, Two Pointers, Sliding Window, Kadane's
+- 📂 [strings](./strings) - String manipulation, anagrams, substring searches
+- 📂 [searching_sorting](./searching_sorting) - Binary Search, Merge Sort, Quick Sort
+- 📂 [recursion](./recursion) - Recursive logic, induction, stack recursion
+- 📂 [backtracking](./backtracking) - Exhaustive search, permutations, N-Queens, Sudoku
+- 📂 [linked_lists](./linked_lists) - Singly/doubly linked lists, cycle detection, reversals
+- 📂 [stacks_queues](./stacks_queues) - LIFO/FIFO operations, Monotonic Stack/Queue
+- 📂 [trees](./trees) - Binary Trees, BST, traversals, LCA
+- 📂 [graphs](./graphs) - DFS, BFS, shortest paths, topological sort
+- 📂 [heaps](./heaps) - Priority Queues, K-way merges, top-K elements
+- 📂 [greedy](./greedy) - Locally optimal choices, scheduling, knapsack
+- 📂 [dp](./dp) - Memoization, tabulation, sequence/grid/knapsack DP
+- 📂 [bit_manipulation](./bit_manipulation) - Bitwise operators, masking, subset generation

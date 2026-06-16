@@ -5,9 +5,9 @@ Arrays are contiguous memory locations that store elements of the same type. Key
 ## 🎯 Question Checklist
 
 ### Basics & Warm-up
-- [ ] [Largest Element in Array](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/arrays/1.Largest%20Element%20in%20Array/Question%20:Largest%20Element%20in%20Array.pdf)
-- [ ] [Second Largest Element](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/arrays/2.Second%20Largest%20/Second%20Largest%20.pdf)
-- [ ] [Single Element in Sorted Array / Find element appearing once](file:///Users/nanibayanaboina2750/Documents/study%20files/DSA/arrays/3.single%20element/3.singleelement.pdf)
+- [ ] Largest Element in Array
+- [ ] Second Largest Element
+- [ ] Single Element in Sorted Array / Find element appearing once
 
 ### Easy
 - [ ] Two Sum
