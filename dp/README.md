@@ -9,6 +9,7 @@ Dynamic Programming (DP) solves complex problems by breaking them down into simp
 - [ ] Min Cost Climbing Stairs
 
 ### Medium
+- [x] [Ninja's Training](./ninja_training/notes.md)
 - [ ] Coin Change
 - [ ] Longest Common Subsequence
 - [ ] 0/1 Knapsack Problem
